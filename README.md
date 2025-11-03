@@ -10,6 +10,11 @@ pyenv install
 ```
 
 install the dependencies via poetry:
-```
+```bash
 poetry install
+```
+
+install the pre-commit hooks (for automatic code formatting):
+```bash
+pre-commit install
 ```
