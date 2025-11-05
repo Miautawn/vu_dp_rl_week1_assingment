@@ -18,3 +18,6 @@ install the pre-commit hooks (for automatic code formatting):
 ```bash
 pre-commit install
 ```
+
+## How to run
+Once the `setup` is complete, you can simply run the `main.ipynb` notebook to generate all the artifacts that are reported in the final report.
